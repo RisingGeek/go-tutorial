@@ -54,4 +54,5 @@ func main() {
 	fmt.Println("Looping starts in another file")
 	flowControl()
 	types()
+	packages()
 }
